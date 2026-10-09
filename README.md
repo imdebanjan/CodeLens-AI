@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeLens AI — Intelligent Full-Stack Code Review Platform
 
 [![Node.js](https://img.shields.io/badge/Node.js-22.x-green.svg)](https://nodejs.org/)
@@ -283,3 +284,6 @@ When presenting this project during technical interviews:
 - **Resilient Fallback Design:** Discuss the repository pattern in `db.ts` and `geminiService.ts` that enables the app to run seamlessly in zero-dependency local environments while being 100% production-ready for MongoDB Atlas and Gemini API.
 - **Frontend Performance:** Highlight the use of Monaco Editor with lazy model disposal, responsive CSS tokens, and clean React context state management without unnecessary heavy third-party state libraries.
 - **RESTful API Versioning:** Walk through the `/api/v1` route design, centralized error middleware, and Zod input validation boundaries.
+=======
+# CodeLens-AI
+>>>>>>> 8f4785f73792c7429a4fbd157991de2b78816838
